@@ -29,7 +29,7 @@
 */
 $G_LOGO_DEPAN_KIRI="tutwuri.png"; // nama file gambarnya, jika tidak ada gunakan nama file nologo.png
 $G_LOGO_DEPAN_KANAN="tutwuri.png";
-$G_JUDUL_DEPAN_1="SEKOLAH PENDIDIKAN INDONESIA";
+$G_JUDUL_DEPAN_1="YAYASAN MENARA TAUFIQ";
 $G_JUDUL_DEPAN_2="YAYASAN PENDIDIKAN INDONESIA";
 $G_JUDUL_DEPAN_3="(atur kembali logo dan identitas sekolah di file school.config.php <br> untuk lebih jelasnya silahkan baca file readme.txt)";
 ?>
